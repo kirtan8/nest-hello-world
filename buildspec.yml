@@ -1,7 +1,7 @@
 version: 0.2
 env:
   variables:
-    REPOSITORY_URI: "<account-id>.dkr.ecr.us-east-1.amazonaws.com/<image name>"
+    REPOSITORY_URI: "976193256461 .dkr.ecr.us-east-1.amazonaws.com/hello-world"
     ENV: "prod"
     PROJECT: "<project_name>"
     APPLICATION: "<app_name>"
